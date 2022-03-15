@@ -1,4 +1,4 @@
-# In mind tic tac toe
+# In mind tic tac toe for Android devices
 
 It is my developmental project to learn to code for Android Devices. Since efficient script languages, like Kotlin, are now avaliable to natively code for android Devices, fast writing of android apps became possible.
 
